@@ -17,6 +17,7 @@ We will be using the following R libraries, please make sure you have installed
 - [purrr](https://purrr.tidyverse.org/)
 - [readr](https://readr.tidyverse.org/)
 - [tidyr](https://tidyr.tidyverse.org/)
+- [stringr](https://stringr.tidyverse.org/)
 - gtSummary from [GitHub](https://github.com/ddsjoberg/gtsummary) or gtsummar from [CRAN](https://cran.r-project.org/web/packages/gtsummary/index.html)
 
 You may need to install [devtools](https://devtools.r-lib.org/) or [remotes](https://remotes.r-lib.org/) prior to install the above mentioned libraries. 
