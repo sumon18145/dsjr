@@ -22,4 +22,4 @@ We will be using the following R libraries, please make sure you have installed
 You may need to install [devtools](https://devtools.r-lib.org/) or [remotes](https://remotes.r-lib.org/) prior to install the above mentioned libraries. 
 
 # Q & A
-- Please use the discussion forum to ask/respond to any questions you may have during and after the workshop.
+- Please use the discussion forum to ask/respond to any questions you may have during and after the workshop. Here is the link to the [Discussion Page](https://github.com/jaynal83/dsjr/discussions) 
