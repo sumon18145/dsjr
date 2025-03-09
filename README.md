@@ -1,5 +1,5 @@
 # Data Science Journey Using R
-This repository is created to share and discuss workshop contents on **Data Science Journey Using R**. Please make sure you have the following tools installed before joining the workshop. We will be adding more contents as and when required. 
+This repository is created to share and discuss workshop contents on [**Data Science Journey Using R**](https://cfdra.com/news-event/data-science-using-r). Please make sure you have the following tools installed before joining the workshop. We will be adding more contents as and when required. 
 
 # R Version
 - R 4.3.0 or higher
