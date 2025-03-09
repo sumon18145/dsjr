@@ -1,0 +1,110 @@
+# Group Work Task: Data Requirements & Data Dictionary
+
+Welcome to the group work session! In this task, you will work together to develop a data requirements for a given research objective. Your goal is to identify the necessary data and create a preliminary data dictionary that outlines essential variables.
+
+---
+
+## Overview
+
+For this exercise, you will be assigned to **one** of the following research objectives:
+
+1. **Public Health in Bangladesh – Dengue Outbreak Prevention**  
+2. **Essential Food & Vegetable Price Monitoring in Bangladesh**
+
+Each group will focus on the assigned research objective, determine what data is needed, and build a data dictionary to support the research.
+
+---
+
+## Task 1: Public Health in Bangladesh – Dengue Outbreak Prevention
+
+### Research Objective
+> *"To predict and prevent dengue outbreaks in Bangladesh by analyzing climate, mosquito population, and healthcare data."*
+
+### Steps
+
+1. **Identify Data Requirements:**  
+   - **Brainstorm Data Sources:**  
+     Consider different types of data that can help address this objective, such as:
+     - **xxxx:**   xxxxxx
+     - **yyy:** yyyy  
+     - **zzz:** zzz  
+     - **aaaaaa:** aaaaa  
+
+2. **Create a Data Dictionary:**  
+   For each potential variable, define:
+   - **Variable Name:** (e.g., `var1`, `var2`)
+   - **Description:** What the variable represents.  
+   - **Data Type:**   
+   - **Possible Values/Format:** Typical ranges or constraints.  
+   - **Data Source:** Where you expect the data to come from 
+
+3. **Deliverables:**  
+   - A structured list of data requirements, organized by category (xxx, yyyy zzz, etc).  
+   - A data dictionary table with at least 5 variables per data category
+
+---
+
+## Task 2: Essential Food & Vegetable Price Monitoring in Bangladesh
+
+### Research Objective
+> *"To analyze and predict daily price fluctuations of essential food and vegetables in Bangladesh to help consumers and policymakers."*
+
+### Steps
+
+1. **Identify Data Requirements:**  
+   - **Brainstorm Data Sources:**  
+     Consider different types of data that can help address this objective, such as:
+     - **xxxx:**   xxxxxx
+     - **yyy:** yyyy  
+     - **zzz:** zzz  
+     - **aaaaaa:** aaaaa  
+
+2. **Create a Data Dictionary:**  
+   For each potential variable, define:
+   - **Variable Name:** (e.g., `var1`, `var2`)
+   - **Description:** What the variable represents.  
+   - **Data Type:**   
+   - **Possible Values/Format:** Typical ranges or constraints.  
+   - **Data Source:** Where you expect the data to come from 
+
+3. **Deliverables:**  
+   - A structured list of data requirements, organized by category (xxx, yyyy zzz, etc).  
+   - A data dictionary table with at least 5 variables per data category
+
+---
+
+
+## General Guidelines for Both Tasks
+
+- **Collaboration:**  
+  Work as a team to brainstorm and discuss what data is essential to answer the research objective effectively.
+
+- **Documentation:**  
+  Clearly document all your data requirements. Organize your notes into logical categories that match the research objective.
+
+- **Data Dictionary:**  
+  Create a table (or multiple tables) that outlines:
+  - **Variable Name**
+  - **Description**
+  - **Data Type**
+  - **Possible Values/Format**
+  - **Data Source**
+
+- **Presentation:**  
+  Prepare a summary of your findings.
+
+- **Consider Challenges:**  
+  Discuss potential challenges, and any privacy or ethical considerations.
+
+---
+
+## Submission Requirements
+
+- Your final submission should be in a single Markdown file (`.md`)
+- Ensure that your document includes clear headings, organized sections, and a complete data dictionary
+- Submit your document by uploading your file into the GitHub repository b creating a branch
+
+---
+
+We look forward to your innovative ideas and comprehensive data plans. Good luck, and let your creativity and analytical skills shine!
+
