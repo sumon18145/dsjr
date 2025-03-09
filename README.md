@@ -13,14 +13,17 @@ This repository is created to share and discuss workshop contents on **Data Scie
 # R Libraries 
 We will be using the following R libraries, please make sure you have installed
 
+- [devtools](https://devtools.r-lib.org/)
+- [remotes](https://remotes.r-lib.org/)
 - [dplyr](https://dplyr.tidyverse.org/)
 - [purrr](https://purrr.tidyverse.org/)
 - [readr](https://readr.tidyverse.org/)
 - [tidyr](https://tidyr.tidyverse.org/)
 - [stringr](https://stringr.tidyverse.org/)
 - gtSummary from [GitHub](https://github.com/ddsjoberg/gtsummary) or gtsummar from [CRAN](https://cran.r-project.org/web/packages/gtsummary/index.html)
+- [sf](https://r-spatial.github.io/sf/)
+- [sjPlot](https://strengejacke.github.io/sjPlot/)
 
-You may need to install [devtools](https://devtools.r-lib.org/) or [remotes](https://remotes.r-lib.org/) prior to install the above mentioned libraries. 
 
 # Q & A
 - Please use the discussion forum to ask/respond to any questions you may have during and after the workshop. Here is the link to the [Discussion Page](https://github.com/jaynal83/dsjr/discussions) 
