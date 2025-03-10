@@ -18,7 +18,7 @@ Each group will focus on the assigned research objective, determine what data is
 ## Task 1: Public Health in Bangladesh – Dengue Outbreak Prevention
 
 ### Research Objective
-> *"To predict and prevent dengue outbreaks in Bangladesh by analyzing climate, mosquito population, and healthcare data."*
+> *"To predict dengue outbreaks in Bangladesh as a function of climate, mosquito population, and healthcare variables so that we can recommend a control measure to limit the future dengue."*
 
 ### Steps
 
@@ -77,10 +77,10 @@ Each group will focus on the assigned research objective, determine what data is
 ## General Guidelines for Both Tasks
 
 - **Collaboration:**  
-  Work as a team to brainstorm and discuss what data is essential to answer the research objective effectively.
+  Work as a team to brainstorm and discuss what data is essential to answer the research objective effectively. The domain knowledge of the problem guides which data should be explored.
 
 - **Documentation:**  
-  Clearly document all your data requirements. Organize your notes into logical categories that match the research objective.
+  Document all your data requirements. Organize your notes into logical categories that match the research objective.
 
 - **Data Dictionary:**  
   Create a table (or multiple tables) that outlines:
@@ -106,5 +106,5 @@ Each group will focus on the assigned research objective, determine what data is
 
 ---
 
-We look forward to your innovative ideas and comprehensive data plans. Good luck, and let your creativity and analytical skills shine!
+We look forward to your innovative ideas and comprehensive data plans. Good luck, and let your creativity and analytic skills shine!
 
