@@ -1,19 +1,22 @@
 # Group Work Task: Data Requirements & Data Dictionary
 
-Welcome to the group work session! In this task, you will work together to develop a data requirements for a given research objective. Your goal is to identify the necessary data and create a preliminary data dictionary that outlines essential variables.
+Welcome to the group work session! In this session, you will work on identifying data requirements for a given research objective. Identify the necessary data/variables, create a data dictionary that outlines essential variables. 
 
 ---
 
+<!--
 ## Overview
 
-For this exercise, you will be assigned to **one** of the following research objectives:
+We will assign **one** of the following research objectives to a group:
 
 1. **Public Health in Bangladesh – Dengue Outbreak Prevention**  
 2. **Essential Food & Vegetable Price Monitoring in Bangladesh**
 
-Each group will focus on the assigned research objective, determine what data is needed, and build a data dictionary to support the research.
+ Each group will focus on the assigned research objective, determine what data is needed, and build a data dictionary to support the research.
+ 
+ ---
+-->
 
----
 
 ## Task 1: Public Health in Bangladesh – Dengue Outbreak Prevention
 
@@ -47,7 +50,7 @@ Each group will focus on the assigned research objective, determine what data is
 ## Task 2: Essential Food & Vegetable Price Monitoring in Bangladesh
 
 ### Research Objective
-> *"To analyze and predict daily price fluctuations of essential food and vegetables in Bangladesh to help consumers and policymakers."*
+> *"To analyze daily price fluctuations of essential food and vegetables and predict the future price in Bangladesh to help consumers and policymakers."*
 
 ### Steps
 
@@ -70,7 +73,6 @@ Each group will focus on the assigned research objective, determine what data is
 3. **Deliverables:**  
    - A structured list of data requirements, organized by category (xxx, yyyy zzz, etc).  
    - A data dictionary table with at least 5 variables per data category
-
 ---
 
 
