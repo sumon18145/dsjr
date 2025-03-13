@@ -1,6 +1,8 @@
+<!-- This looks good as well -->
+
 # Group Work Task: Data Processing
 
-Welcome to the group work session! In this task, you will be utilizing not only the techniques discussed during the session but also your own prior skills. The ultimate goal is to create a data that is self informative and ready to do statistical analysis.
+Welcome to the group work session! In this session, you will be utilizing not only the techniques discussed during the session but also your own prior skills. The ultimate goal is to create a data that is self informative and ready to do statistical analysis.
 
 ------------------------------------------------------------------------
 
