@@ -1,14 +1,10 @@
 Task 1: Public Health in Bangladesh – Dengue Outbreak Prevention
+
 Research Objective
 "To predict dengue outbreaks in Bangladesh as a function of climate, mosquito population, and healthcare variables so that we can recommend a control measure to limit the future dengue."
 
 Steps
-Identify Data Requirements:
-
-Brainstorm Data Sources:
-
-
-Consider different types of data that can help address this objective, such as:
+**Identify Data Requirements:**
 
 
 Gender of the correspondent: Male, Female
@@ -20,7 +16,7 @@ Patient Count : Number of daily dengue positive patient
 Area: Urban, Rural
 
 
-**Variables**
+**Variables : **
 
 **Variable Name 1**: Gender
 
