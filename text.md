@@ -9,10 +9,20 @@ Brainstorm Data Sources:
 
 
 Consider different types of data that can help address this objective, such as:
-Season: Summer, Rainy, Winter, Spring
+
+
+Seasonal Mosquito Density: Summer, Rainy, Winter, Spring
+
+
 Gender: Male, Female
-Patient Count : daily, Weekly 
+
+
+Patient Count : daily
+
+
 Area: Urban, Rural
+
+
 
 Create a Data Dictionary:
 Variable Name: Gender
