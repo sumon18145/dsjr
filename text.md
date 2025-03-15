@@ -6,6 +6,8 @@ Steps
 Identify Data Requirements:
 
 Brainstorm Data Sources:
+
+
 Consider different types of data that can help address this objective, such as:
 Season: Summer, Rainy, Winter, Spring
 Gender: Male, Female
