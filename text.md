@@ -22,7 +22,7 @@ Area: Urban, Rural
 
 **Variables**
 
-Variable Name: Gender
+**Variable Name 1**: Gender
 
 
 Description: Gender of the patient
@@ -38,7 +38,7 @@ Data Source: From the correspondent
 Deliverables:
 
 
-Variable Name: Detection
+**Variable Name 2** : Detection
 
 
 Description: Positive or Negative
@@ -57,7 +57,7 @@ Deliverables:
 
 
 
-Variable Name: Mosquito Density
+**Variable Name 3**: Mosquito Density
 
 
 Description: the density of a certain region
