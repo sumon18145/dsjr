@@ -1,0 +1,63 @@
+---
+title: "CfDRA Day1 Task1"
+author: "Ar-Rafi Khan"
+date: "`r paste('First developed on 15 March 2025. Updated on', format(Sys.Date(), '%d %B %Y'))`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Group Work Task: Data Requirements & Data Dictionary
+
+### Task 1: Public Health in Bangladesh – Dengue Outbreak Prevention
+
+#### Research Objective
+> *"To predict dengue outbreaks in Bangladesh as a function of climate, mosquito population, and healthcare variables so that we can recommend a control measure to limit the future dengue."*
+
+#### Data Dictionary
+Before taking decision which variable to incorporate, an extensive literature search is required involving dengue specialist. Below are few results - 
+
+* Prediction of dengue annual incidence using seasonal climate variability in Bangladesh between 2000 and 2018 (https://doi.org/10.1371/journal.pgph.0000047)
+
+<br>
+
+<br>
+
+```{r, echo = FALSE, results = 'asis'}
+dd1 <- matrix(NA, nrow = 4, ncol = 5)
+
+#####Column name
+colnames(dd1) <- c("Variable Name", "Description", "Data Type", "Possible Values/Format", "Data Source")
+
+#####Populating column
+dd1[1, ] <- c("Confirmed dengue cases", "Monthly confirmed dengue cases ", "Continuous variable", "Count data", "Directorate General of Health Services (DGHS)")
+
+dd1[2, ] <- c("Monthly minimum temperature", "Temperature measured in degrees Celsius", "Continuous variable", "Range from 7 to 40 degrees Celsius", "Bangladesh Meteorological Department (BMD)")
+
+dd1[3, ] <- c("Rainfall", "Rainfall measured in millimeters", "Continuous variable", "Numeric data", "Bangladesh Meteorological Department (BMD)")
+
+dd1[4, ] <- c("Sunshine duration", "Sunshine duration measured in hours", "Continuous variable", "Numeric data", "Bangladesh Meteorological Department (BMD)")
+
+
+#####Print the table
+library(knitr)
+kable(dd1,  align = c('l', 'l', 'l', 'l', 'l'),
+      caption = "_Data dictionary_") 
+```
+
+
+Similarly we can look into other manuscript or report to get idea what and which type data should be collected before we proceed for the study.  
+
+<br>
+
+<br>
+
+Some other reference -  
+
+* Dengue and severe dengue - https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue  
+* Dengue Outbreak Prediction in Bangladesh based on Meteorological Factors - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5078257  
+
+
+
