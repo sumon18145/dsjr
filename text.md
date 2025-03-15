@@ -11,52 +11,66 @@ Brainstorm Data Sources:
 Consider different types of data that can help address this objective, such as:
 
 
-Seasonal Mosquito Density: Summer, Rainy, Winter, Spring
+Gender of the correspondent: Male, Female
 
+Seasonal mosquito density: Summer, Rainy, Winter, Spring
 
-Gender: Male, Female
-
-
-Patient Count : daily
-
+Patient Count : Number of daily dengue positive patient
 
 Area: Urban, Rural
 
 
+**Variables**
 
-Create a Data Dictionary:
 Variable Name: Gender
+
+
 Description: Gender of the patient
+
+
 Data Type: Categorical
+
+
 Possible Values/Format: Male=1, Female=2
-Data Source: 
+
+Data Source: From the correspondent
+
 Deliverables:
 
 
 Variable Name: Detection
+
+
 Description: Positive or Negative
+
+
 Data Type: Categorical
+
+
 Possible Values/Format: Positive= 1, Negative=0
-Data Source: Test
+
+
+Data Source: From dengue test
+
+
 Deliverables:
+
+
 
 Variable Name: Mosquito Density
+
+
 Description: the density of a certain region
+
+
 Data Type: Ordinal
-Possible Values/Format: 
-Data Source: Where you expect the data to come from
+
+
+Possible Values/Format: 1 = Comparatively Low, 2 = Comparatively midium, 3 = Comparatively high
+
+
+Data Source: From online
+
+
 Deliverables:
 
-
-
-For each potential variable, define:
-
-Variable Name: (e.g., var1, var2)
-Description: What the variable represents.
-Data Type:
-Possible Values/Format: Typical ranges or constraints.
-Data Source: Where you expect the data to come from
-Deliverables:
-
-A structured list of data requirements, organized by category (xxx, yyyy zzz, etc).
-A data dictionary table with at least 5 variables per data category
