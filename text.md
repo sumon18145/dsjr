@@ -16,7 +16,7 @@ Patient Count : Number of daily dengue positive patient
 Area: Urban, Rural
 
 
-**Variables : **
+**Variables :**
 
 **Variable Name 1**: Gender
 
