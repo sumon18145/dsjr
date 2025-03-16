@@ -4,7 +4,7 @@ library(readxl)
 library(dplyr)
 
 # Define the file path
-file_path <- "Air Quality Data.xlsx"  # Replace with your actual file path
+file_path <- "./data/Air Quality Data.xlsx"  # Replace with your actual file path
 
 # Get the names of all sheets (each sheet corresponds to a city)
 sheet_names <- excel_sheets(file_path)
