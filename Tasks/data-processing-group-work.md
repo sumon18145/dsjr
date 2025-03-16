@@ -78,7 +78,7 @@ The following is the expected output data after doing cleaning and necessary pro
 
 ## English Premier League Player Stats
 
-This data contains English Premier League Player's stats accessed from Premier League official website. The data contains all player up to Sep 24, 2020. One row contains one player's data. The following are the variables in the data.
+This data contains [English Premier League](https://www.premierleague.com/stats) Player's stats accessed from Premier League official website. The data contains all player up to Sep 24, 2020. One row contains one player's data. The following are the variables in the data.
 
 -   `Name`
 -   `Jersey Number`
