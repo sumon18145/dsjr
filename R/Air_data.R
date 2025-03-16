@@ -15,9 +15,10 @@ glimpse(air_data)
 
 air_data <- air_data %>%
   mutate(
-    Date = day(ymd(Date)),
-    Time = parse_hm(Time)
+    Date = date(Date),
+    Time = parse_hm(Time), 
+    CityName = as.factor(CityName),
          ) %>%
   select(Date, Time, CityName, PM2.5, Temperature)
 head(air_data)
-
+air_data$CityName 
