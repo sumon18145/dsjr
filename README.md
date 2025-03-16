@@ -18,6 +18,7 @@ We will be using the following R libraries, please make sure you have installed
 - [dplyr](https://dplyr.tidyverse.org/)
 - [purrr](https://purrr.tidyverse.org/)
 - [readr](https://readr.tidyverse.org/)
+- [readxl](https://readxl.tidyverse.org/)
 - [tidyr](https://tidyr.tidyverse.org/)
 - [stringr](https://stringr.tidyverse.org/)
 - gtSummary from [GitHub](https://github.com/ddsjoberg/gtsummary) or gtsummar from [CRAN](https://cran.r-project.org/web/packages/gtsummary/index.html)
